@@ -62,20 +62,21 @@ p{
 }
 .desc{
     position: absolute;
-    /* background-color: white; */
+    background-color: white;
+    color: black;
     padding: 0.5rem 2.5rem;
     top: 50%;
-    left: 50%;
+    left: 25%;
     transform: translatez(50px) scale(2);
 }
 .bg1{
-    background-image: url(/image/biking.jpg );
+    background-image:url(../image/biking.jpg);
   
 }
 .bg2{
-    background-image: url(/image/para\ gliding.jpg);
+    background-image: url(../image/para\ gliding.jpg);
 }
 .bg3{
-    background-image: url(/image/surfing.jpg);
+    background-image: url(../image/surfing.jpg);
 }
 
